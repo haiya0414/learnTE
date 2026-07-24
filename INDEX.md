@@ -12,7 +12,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
-| — | — | — | — |
+| 2026-07-27 | [Download](https://github.com/w26m789mfc-stack/learnTE/releases/download/ny-20260727/20260727-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/w26m789mfc-stack/learnTE/releases/download/ny-20260727/20260727-The-New-Yorker-Magazine.epub) | [View](https://github.com/w26m789mfc-stack/learnTE/releases/tag/ny-20260727) |
 
 ## TIME Magazine
 
@@ -20,4 +20,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | — | — | — | — |
 
-_Total issues: 1._
+_Total issues: 2._
