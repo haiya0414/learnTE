@@ -6,7 +6,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
-| — | — | — | — |
+| 2026-07-25 | [Download](https://github.com/w26m789mfc-stack/learnTE/releases/download/te-20260725/20260725-The-Economist.pdf) | [Download](https://github.com/w26m789mfc-stack/learnTE/releases/download/te-20260725/20260725-The-Economist.epub) | [View](https://github.com/w26m789mfc-stack/learnTE/releases/tag/te-20260725) |
 
 ## The New Yorker Magazine
 
@@ -20,4 +20,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | — | — | — | — |
 
-_Total issues: 0._
+_Total issues: 1._
