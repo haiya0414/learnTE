@@ -6,7 +6,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
-| — | — | — | — |
+| 2026-07-25 | [Download](https://github.com/haiya0414/learnTE/releases/download/te-20260725/20260725-The-Economist.pdf) | [Download](https://github.com/haiya0414/learnTE/releases/download/te-20260725/20260725-The-Economist.epub) | [View](https://github.com/haiya0414/learnTE/releases/tag/te-20260725) |
 
 ## The New Yorker Magazine
 
@@ -21,4 +21,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | — | — | — | — |
 
-_Total issues: 2._
+_Total issues: 3._
