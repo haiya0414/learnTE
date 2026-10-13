@@ -17,6 +17,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20261019/20261019-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20261019/20261019-The-New-Yorker-Magazine.epub) | [View](https://github.com/haiya0414/learnTE/releases/tag/ny-20261019) |
 | 2026-10-12 | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20261012/20261012-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20261012/20261012-The-New-Yorker-Magazine.epub) | [View](https://github.com/haiya0414/learnTE/releases/tag/ny-20261012) |
 | 2026-10-05 | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20261005/20261005-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20261005/20261005-The-New-Yorker-Magazine.epub) | [View](https://github.com/haiya0414/learnTE/releases/tag/ny-20261005) |
 | 2026-09-28 | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20260928/20260928-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/haiya0414/learnTE/releases/download/ny-20260928/20260928-The-New-Yorker-Magazine.epub) | [View](https://github.com/haiya0414/learnTE/releases/tag/ny-20260928) |
@@ -35,4 +36,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | — | — | — | — |
 
-_Total issues: 17._
+_Total issues: 18._
